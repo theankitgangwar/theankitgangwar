@@ -28,7 +28,7 @@
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | [LearnX](https://github.com/theankitgangwar/Learning_Management_System) ([Live](https://learnxx.vercel.app/)) | MERN Stack | Students enroll, track progress, and access course content; Instructors create courses, manage content, and monitor performance |
-| [IntelliTrip](https://github.com/theankitgangwar/IntelliTrip) ([Live](https://ai-trip-planner-barika.vercel.app/)) | React, Tailwind,Firebase,Gemini AI | AI-powered trip planning web app which provides itineraries, top destinations, and hotel recommendations.|
+| [IntelliTrip](https://github.com/theankitgangwar/IntelliTrip) ([Live](https://intelli-trip.vercel.app/)) | React, Tailwind,Firebase,Gemini AI | AI-powered trip planning web app which provides itineraries, top destinations, and hotel recommendations.|
 | [ChatApp](https://github.com/theankitgangwar/ChatAppp) | MERN Stack | A real-time messaging app allowing users to chat, share media, and stay connected instantly |
 
 ---
