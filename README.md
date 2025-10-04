@@ -18,7 +18,7 @@
 
 **Languages**: `C`, `C++`, `Python`, `JavaScript`, `TypeScript`, `SQL`  
 **Frameworks**: `ReactJS`, `NodeJS`, `ExpressJS`, `Tailwind`, `NextJS`, `Bootstrap`, `EJS`, `jQuery`  
-**Databases**: `MongoDB`, `PostgreSQL`, `Firebase`
+**Databases**: `MongoDB`, `PostgreSQL`, `Firebase`  
 **Tools**: `Git`, `GitHub`, `Linux`, `VS Code`, `Postman`, `PgAdmin`, `Jupyter`
 
 ---
@@ -58,7 +58,7 @@
 
 - 🥈 [Secured Global Rank 62 in the LeetCode Weekly Contest 459](https://leetcode.com/contest/weekly-contest-459/ranking/3/?region=global_v2)
 - 🎓 [PCAP: Programming Essentials in Python by Cisco Networking Academy)](https://drive.google.com/file/d/1EH6HWlsOSeIs4dLIE2dlvabn4-aJreAX/view)
-- 🚀 [Full Stack Development with AI Engineering – Summer Internship (Programming Pathshala + ABES Engineering College, 2025) – Grade A](https://drive.google.com/file/d/1vnkWvBhjwhZ-m3D_XUu9b-ZsNGjxVHKJ/view?usp=sharing)
+- 🚀 [Full Stack Development with AI Engineering – Summer Internship (Programming Pathshala+ABES Engineering College, 2025)– Grade A](https://drive.google.com/file/d/1vnkWvBhjwhZ-m3D_XUu9b-ZsNGjxVHKJ/view?usp=sharing)
 - 📚 [Problem Solving (Basic and Intermediate) certifications from HackerRank](https://www.hackerrank.com/profile/MLA_22B1531055)
 
 
